@@ -1,37 +1,80 @@
-## Welcome to GitHub Pages
+## ELIXIR Reproducible Research Workshop: Bioinformatics Workflow Management 2021
 
-You can use the [editor on GitHub](https://github.com/elixir-workflow-workshop/2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Reproducibility is a cornerstone of good scientific practice. Thanks to funding provided by ELIXIR Training Platform Task 2, we have brought together the biggest names in bioinformatics workflow management for a 3 day practical workshop. We have presentations from the development teams of CWL, snakemake, next-flow, nf-core and more! If you want to learn more about the workflow management concepts that will be addressed in this workshop, check out these articles:
+ - [Workflow systems turn raw data into scientific knowledge](https://doi.org/10.1038/d41586-019-02619-z)
+ - [Methods Included: Standardizing Computational Reuse and Portability with the Common Workflow Language](https://arxiv.org/abs/2105.070287)
+ - [Sustainable data analysis with Snakemake](https://f1000research.com/articles/10-33/v1)
+ - [Nextflow enables reproducible computational workflows](https://doi.org/10.1038/nbt.3820)
+ - [The nf-core framework for community-curated bioinformatics pipelines](https://doi.org/10.1038/s41587-020-0439-x)
+ - [Lessons Learned: Recommendations for Establishing Critical Periodic Scientific Benchmarking](https://doi.org/10.1101/181677)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Details
 
-### Markdown
+**Organizers**: 
+- [Naveed Ishaque, *Berlin Institute of Health at Charité University Hospital*](naveed.ishaque@charite.de)
+- Sina Barysch, *EMBL*
+- Franziska Mueller, *Berlin Institute of Health at Charité University Hospital*
+- Daniel Wibberg, *CeBiTec, Univerity of Bielefeld*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Target audience:** PhD/postdoc-level bioinformaticians familiar with omics analysis and scripting in python/R. You should already be familiar with some data analysis workflows and ready to take your first steps in tring out a modern workflow management tool.
 
-```markdown
-Syntax highlighted code block
+**Places:** 30 attendees - apply soon to avoid disappointment!
 
-# Header 1
-## Header 2
-### Header 3
+**Location: virtual via Zoom**. The practical sessions will require use of your own laptop, HPC etc. Please note that you will be expected to set up software environments for the practical sessions before hand. Details on how to do this will be provided in due course.
 
-- Bulleted
-- List
+**Dates:** Monday 29th November – Wednesday 1st December.
 
-1. Numbered
-2. List
+**Contact:** to register and for more information email Naveed Ishaque, naveed.ishaque@bih-charite.de.
 
-**Bold** and _Italic_ and `Code` text
+## Provisional Schedule
 
-[Link](url) and ![Image](src)
-```
+### Day 1: Monday 29th November
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Morning 09:30-12:00: CWL
+Trainers:
+ - Michael R. Crusoe, *Vrije Universiteit Amsterdam (VU Amsterdam), Netherlands*
+ - Celia van Gelder, *Dutch Techcentre for Life Sciences, Netherlands*
+ - Fotis E. Psomopoulos, *Centre for Research and Technology Hellas, Greece*
+Link to material: coming soon...
 
-### Jekyll Themes
+Afternoon 13:00-15:00: workflUX and workflows in the cloud
+Trainers: 
+ - Sven Twardziok, *Berlin Institute of Health at Charité University Hospital, Germany*
+ - Pavlo Lutsik, *German Cancer Research Centre, Germany*
+Link to material: coming soon...
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elixir-workflow-workshop/2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Day 2: Tuesday 30th Nov
 
-### Support or Contact
+Morning 09:30-12:00: Snakemake
+Trainers:
+- Johannes Köster, *University of Duisberg and Essen, Germany*
+Link to material: https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Afternoon 13:00-15:00: OpenEBench
+Trainers
+- Salvador Capella-Gutierrez, *Barcelona Super Computing Centre, Spain*
+- Laura Portell, *Barcelona Super Computing Centre, Spain*
+- Asier Gonzalez, *Barcelona Super Computing Centre, Spain*
+Link to material: coming soon..
+
+**Evening virtual social via gather.town - meet and discuss experiences with your peers and trianers while enjoying your favourite food devilvery service!**
+
+### Day 3, Wednesday 1st Dec
+
+Morning 09:30-12:00: Nextflow
+Trainers:
+ - Paolo Di Tommaso, *Seqera Labs, Spain*
+- Evan Floden, *Seqera Labs, Spain*
+- Luca Cozzuto, *Centre for Genomics REgulation, Spain*
+State of material: We actually have already given twice a course about the new DSL of Nextflow and the material is ready
+
+Afternoon 13:00-15:00: nf-core [DE, SE]
+Trainers:
+ - Sven Nahnsen, *University of Tübingen, Germany*
+ - Gisela Gabernet, *University of Tübingen, Germany*
+ - Friederike Hanssen, *University of Tübingen, Germany*
+ - Phil Ewels, *SciLife Lab, Sweden*
+
+## Poster!
+
+![poster](https://user-images.githubusercontent.com/92855176/138080677-2779de40-d8a2-48d3-a12a-743b6e0e1da5.png)
