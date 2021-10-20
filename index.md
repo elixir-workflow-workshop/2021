@@ -24,13 +24,16 @@ Reproducibility is a cornerstone of good scientific practice. Thanks to funding 
 
 **Dates:** Monday 29th November – Wednesday 1st December.
 
-**Contact:** to register and for more information email Naveed Ishaque, naveed.ishaque@bih-charite.de.
+**Contact: to register and for more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](naveed.ishaque@bih-charite.de)**
 
 ## Provisional Schedule
 
 ### Day 1: Monday 29th November
 
-Morning 09:30-12:00: CWL
+09:30-12:00: Introduction
+ - Naveed Ishaque
+
+09:30-12:00: CWL
 Trainers:
  - Michael R. Crusoe, *Vrije Universiteit Amsterdam (VU Amsterdam), Netherlands*
  - Celia van Gelder, *Dutch Techcentre for Life Sciences, Netherlands*
@@ -38,7 +41,7 @@ Trainers:
 
 Link to material: coming soon...
 
-Afternoon 13:00-15:00: workflUX and workflows in the cloud
+13:00-15:00: workflUX and workflows in the cloud
 Trainers: 
  - Sven Twardziok, *Berlin Institute of Health at Charité University Hospital, Germany*
  - Pavlo Lutsik, *German Cancer Research Centre, Germany*
@@ -48,13 +51,11 @@ Link to material: coming soon...
 ### Day 2: Tuesday 30th Nov
 
 Morning 09:30-12:00: Snakemake
-Trainers:
 - Johannes Köster, *University of Duisberg and Essen, Germany*
 
 Link to material: [https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html](https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html)
 
 Afternoon 13:00-15:00: OpenEBench
-Trainers
 - Salvador Capella-Gutierrez, *Barcelona Super Computing Centre, Spain*
 - Laura Portell, *Barcelona Super Computing Centre, Spain*
 - Asier Gonzalez, *Barcelona Super Computing Centre, Spain*
@@ -66,15 +67,13 @@ Link to material: coming soon...
 ### Day 3, Wednesday 1st Dec
 
 Morning 09:30-12:00: Nextflow
-Trainers:
- - Paolo Di Tommaso, *Seqera Labs, Spain*
+- Paolo Di Tommaso, *Seqera Labs, Spain*
 - Evan Floden, *Seqera Labs, Spain*
 - Luca Cozzuto, *Centre for Genomics REgulation, Spain*
 
 Link to material: coming soon...
 
 Afternoon 13:00-15:00: nf-core [DE, SE]
-Trainers:
  - Sven Nahnsen, *University of Tübingen, Germany*
  - Gisela Gabernet, *University of Tübingen, Germany*
  - Friederike Hanssen, *University of Tübingen, Germany*
@@ -82,6 +81,8 @@ Trainers:
 
 Link to material: coming soon...
 
-## Poster!
+**To register and for more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](naveed.ishaque@bih-charite.de)**
+
+## Poster
 
 ![poster](https://user-images.githubusercontent.com/92855176/138080677-2779de40-d8a2-48d3-a12a-743b6e0e1da5.png)
