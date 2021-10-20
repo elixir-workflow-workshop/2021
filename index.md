@@ -49,6 +49,8 @@ Link to material: coming soon...
 **13:00-15:00: workflUX and workflows in the cloud**
  - Sven Twardziok, *Berlin Institute of Health at Charité University Hospital, Germany*
  - Pavlo Lutsik, *German Cancer Research Centre, Germany*
+ - Mei-Ju Chen, *German Cancer Research Centre, Germany*
+ - Clarissa Feuerstein, *German Cancer Research Centre, Germany*
 
 Link to material: coming soon...
 
@@ -78,10 +80,8 @@ Link to material: coming soon...
 Link to material: coming soon...
 
 **13:00-15:00: nf-core**
- - Sven Nahnsen, *University of Tübingen, Germany*
  - Gisela Gabernet, *University of Tübingen, Germany*
  - Friederike Hanssen, *University of Tübingen, Germany*
- - Phil Ewels, *SciLife Lab, Sweden*
 
 Link to material: coming soon...
 
