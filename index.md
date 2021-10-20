@@ -26,23 +26,27 @@ Reproducibility is a cornerstone of good scientific practice. Thanks to funding 
 
 **Contact: to register and for more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](naveed.ishaque@bih-charite.de)**
 
+## Registration ##
+
+Please register via [surveymonkey](https://www.surveymonkey.de/r/GSSG3YY)
+
+<img src="https://user-images.githubusercontent.com/92855176/138125805-78418666-fa43-441f-8b70-b939ee97f8fb.png" width="200" height="200">
+
 ## Provisional Schedule
 
 ### Day 1: Monday 29th November
 
-09:30-12:00: Introduction
+**09:30-12:00: opening remarks**
  - Naveed Ishaque
 
-09:30-12:00: CWL
-Trainers:
+**09:30-12:00: CWL**
  - Michael R. Crusoe, *Vrije Universiteit Amsterdam (VU Amsterdam), Netherlands*
  - Celia van Gelder, *Dutch Techcentre for Life Sciences, Netherlands*
  - Fotis E. Psomopoulos, *Centre for Research and Technology Hellas, Greece*
 
 Link to material: coming soon...
 
-13:00-15:00: workflUX and workflows in the cloud
-Trainers: 
+**13:00-15:00: workflUX and workflows in the cloud**
  - Sven Twardziok, *Berlin Institute of Health at Charité University Hospital, Germany*
  - Pavlo Lutsik, *German Cancer Research Centre, Germany*
 
@@ -50,12 +54,12 @@ Link to material: coming soon...
 
 ### Day 2: Tuesday 30th Nov
 
-Morning 09:30-12:00: Snakemake
+**09:30-12:00: Snakemake**
 - Johannes Köster, *University of Duisberg and Essen, Germany*
 
 Link to material: [https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html](https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html)
 
-Afternoon 13:00-15:00: OpenEBench
+**13:00-15:00: OpenEBench**
 - Salvador Capella-Gutierrez, *Barcelona Super Computing Centre, Spain*
 - Laura Portell, *Barcelona Super Computing Centre, Spain*
 - Asier Gonzalez, *Barcelona Super Computing Centre, Spain*
@@ -66,14 +70,14 @@ Link to material: coming soon...
 
 ### Day 3, Wednesday 1st Dec
 
-Morning 09:30-12:00: Nextflow
+**09:30-12:00: Nextflow**
 - Paolo Di Tommaso, *Seqera Labs, Spain*
 - Evan Floden, *Seqera Labs, Spain*
 - Luca Cozzuto, *Centre for Genomics Regulation, Spain*
 
 Link to material: coming soon...
 
-Afternoon 13:00-15:00: nf-core [DE, SE]
+**13:00-15:00: nf-core**
  - Sven Nahnsen, *University of Tübingen, Germany*
  - Gisela Gabernet, *University of Tübingen, Germany*
  - Friederike Hanssen, *University of Tübingen, Germany*
@@ -81,8 +85,18 @@ Afternoon 13:00-15:00: nf-core [DE, SE]
 
 Link to material: coming soon...
 
-**To register and for more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](naveed.ishaque@bih-charite.de)**
+**15:00-15:15: closing remarks**
+
+
+## Registration ##
+
+Please register via [surveymonkey](https://www.surveymonkey.de/r/GSSG3YY)
+
+<img src="https://user-images.githubusercontent.com/92855176/138125805-78418666-fa43-441f-8b70-b939ee97f8fb.png" width="200" height="200">
 
 ## Poster
 
-![poster](https://user-images.githubusercontent.com/92855176/138080677-2779de40-d8a2-48d3-a12a-743b6e0e1da5.png)
+![poster](https://user-images.githubusercontent.com/92855176/138126430-6ce0e608-a157-4b4f-b066-b65c0c763497.png)
+
+**For more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](naveed.ishaque@bih-charite.de)**
+
