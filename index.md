@@ -35,12 +35,14 @@ Trainers:
  - Michael R. Crusoe, *Vrije Universiteit Amsterdam (VU Amsterdam), Netherlands*
  - Celia van Gelder, *Dutch Techcentre for Life Sciences, Netherlands*
  - Fotis E. Psomopoulos, *Centre for Research and Technology Hellas, Greece*
+
 Link to material: coming soon...
 
 Afternoon 13:00-15:00: workflUX and workflows in the cloud
 Trainers: 
  - Sven Twardziok, *Berlin Institute of Health at Charité University Hospital, Germany*
  - Pavlo Lutsik, *German Cancer Research Centre, Germany*
+
 Link to material: coming soon...
 
 ### Day 2: Tuesday 30th Nov
@@ -48,14 +50,16 @@ Link to material: coming soon...
 Morning 09:30-12:00: Snakemake
 Trainers:
 - Johannes Köster, *University of Duisberg and Essen, Germany*
-Link to material: https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html
+
+Link to material: [https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html](https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html)
 
 Afternoon 13:00-15:00: OpenEBench
 Trainers
 - Salvador Capella-Gutierrez, *Barcelona Super Computing Centre, Spain*
 - Laura Portell, *Barcelona Super Computing Centre, Spain*
 - Asier Gonzalez, *Barcelona Super Computing Centre, Spain*
-Link to material: coming soon..
+
+Link to material: coming soon...
 
 **Evening virtual social via gather.town - meet and discuss experiences with your peers and trianers while enjoying your favourite food devilvery service!**
 
@@ -66,7 +70,8 @@ Trainers:
  - Paolo Di Tommaso, *Seqera Labs, Spain*
 - Evan Floden, *Seqera Labs, Spain*
 - Luca Cozzuto, *Centre for Genomics REgulation, Spain*
-State of material: We actually have already given twice a course about the new DSL of Nextflow and the material is ready
+
+Link to material: coming soon...
 
 Afternoon 13:00-15:00: nf-core [DE, SE]
 Trainers:
@@ -74,6 +79,8 @@ Trainers:
  - Gisela Gabernet, *University of Tübingen, Germany*
  - Friederike Hanssen, *University of Tübingen, Germany*
  - Phil Ewels, *SciLife Lab, Sweden*
+
+Link to material: coming soon...
 
 ## Poster!
 
