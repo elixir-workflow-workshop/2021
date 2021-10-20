@@ -69,7 +69,7 @@ Link to material: coming soon...
 Morning 09:30-12:00: Nextflow
 - Paolo Di Tommaso, *Seqera Labs, Spain*
 - Evan Floden, *Seqera Labs, Spain*
-- Luca Cozzuto, *Centre for Genomics REgulation, Spain*
+- Luca Cozzuto, *Centre for Genomics Regulation, Spain*
 
 Link to material: coming soon...
 
