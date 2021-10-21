@@ -27,8 +27,7 @@ Reproducibility is a cornerstone of good scientific practice. Thanks to funding 
 
 **Contact: for more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](naveed.ishaque@bih-charite.de)**
 
-## [Registration](https://www.surveymonkey.de/r/GSSG3YY) ##
-<h2 id=“registration”><a style=“text-decoration: none” href=“https://www.surveymonkey.de/r/GSSG3YY”>Registration</a></h2>
+## Registration ##
 
 Please register via [surveymonkey](https://www.surveymonkey.de/r/GSSG3YY)
 
