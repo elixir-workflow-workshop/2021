@@ -25,7 +25,7 @@ Reproducibility is a cornerstone of good scientific practice. Thanks to funding 
 
 **Dates:** Monday 29th November – Wednesday 1st December.
 
-**Contact: to register and for more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](naveed.ishaque@bih-charite.de)**
+**Contact: for more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](naveed.ishaque@bih-charite.de)**
 
 ## Registration ##
 
