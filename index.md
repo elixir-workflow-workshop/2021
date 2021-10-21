@@ -1,7 +1,7 @@
 ## ELIXIR Reproducible Research Workshop: Bioinformatics Workflow Management 2021
 ## Monday 29th November - Wednesday 1st December 2021
 
-Reproducibility is a cornerstone of good scientific practice. Thanks to funding provided by ELIXIR Training Platform Task 2, we have brought together the biggest names in bioinformatics workflow management for a 3 day practical workshop. We have presentations from the development teams of CWL, snakemake, next-flow, nf-core and more! If you want to learn more about the workflow management concepts that will be addressed in this workshop, check out these articles:
+Reproducibility is a cornerstone of good scientific practice. Thanks to funding provided by ELIXIR Training Platform Task 2, we have brought together the biggest names in bioinformatics workflow management for a 3 day practical workshop. We have presentations from the development teams of CWL, snakemake, next-flow, nf-core and more. If you want to learn more about the workflow management concepts that will be addressed in this workshop, check out these articles:
  - [Workflow systems turn raw data into scientific knowledge](https://doi.org/10.1038/d41586-019-02619-z)
  - [Methods Included: Standardizing Computational Reuse and Portability with the Common Workflow Language](https://arxiv.org/abs/2105.07028)
  - [Sustainable data analysis with Snakemake](https://f1000research.com/articles/10-33/v1)
@@ -27,7 +27,7 @@ Reproducibility is a cornerstone of good scientific practice. Thanks to funding 
 
 **Contact: for more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](naveed.ishaque@bih-charite.de)**
 
-## Registration ##
+## [Registration](https://www.surveymonkey.de/r/GSSG3YY) ##
 
 Please register via [surveymonkey](https://www.surveymonkey.de/r/GSSG3YY)
 
