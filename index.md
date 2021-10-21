@@ -17,7 +17,7 @@ Reproducibility is a cornerstone of good scientific practice. Thanks to funding 
 - Franziska Mueller, *Berlin Institute of Health at Charité University Hospital*
 - Daniel Wibberg, *CeBiTec, Univerity of Bielefeld*
 
-**Target audience:** PhD/postdoc-level bioinformaticians familiar with omics analysis and scripting in python/R. You should already be familiar with some data analysis workflows and ready to take your first steps in tring out a modern workflow management tool.
+**Target audience:** PhD/postdoc-level bioinformaticians familiar with omics analysis and scripting in python/R. You should already be familiar with some data analysis workflows and ready to take your first steps in trying out a modern workflow management tool.
 
 **Places:** 30 attendees - apply soon to avoid disappointment!
 
