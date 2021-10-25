@@ -31,7 +31,7 @@ Reproducibility is a cornerstone of good scientific practice. Thanks to funding 
 
 Please register via [surveymonkey](https://www.surveymonkey.de/r/GSSG3YY)
 
-<a href="https://www.surveymonkey.de/r/GSSG3YY"><img src="https://user-images.githubusercontent.com/92855176/138125805-78418666-fa43-441f-8b70-b939ee97f8fb.png" width="200" height="200"></a>
+<a href="https://www.surveymonkey.de/r/GSSG3YY"><img src="https://user-images.githubusercontent.com/92855176/138662567-2dc6d014-32dd-409f-b760-ad5ad0486ced.png" width="200" height="200"></a>
 
 ## Provisional Schedule
 
@@ -97,7 +97,7 @@ Link to material: coming soon...
 
 Please register via [surveymonkey](https://www.surveymonkey.de/r/GSSG3YY)
 
-<a href="https://www.surveymonkey.de/r/GSSG3YY"><img src="https://user-images.githubusercontent.com/92855176/138125805-78418666-fa43-441f-8b70-b939ee97f8fb.png" width="200" height="200"></a>
+<a href="https://www.surveymonkey.de/r/GSSG3YY"><img src="https://user-images.githubusercontent.com/92855176/138662567-2dc6d014-32dd-409f-b760-ad5ad0486ced.png" width="200" height="200"></a>
 
 ## Poster
 
