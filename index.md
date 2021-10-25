@@ -101,7 +101,7 @@ Please register via [surveymonkey](https://www.surveymonkey.de/r/GSSG3YY)
 
 ## Poster
 
-![poster](https://user-images.githubusercontent.com/92855176/138126430-6ce0e608-a157-4b4f-b066-b65c0c763497.png)
+![poster](https://user-images.githubusercontent.com/92855176/138649774-e77fad4b-1b9c-425f-b7e3-29700a441caf.png)
 
 **For more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](naveed.ishaque@bih-charite.de)**
 
