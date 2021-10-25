@@ -73,7 +73,7 @@ Link to material: [https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.
 
 Link to material: coming soon...
 
-**Evening virtual social via gather.town - meet and discuss experiences with your peers and trianers while enjoying your favourite food delivery service!**
+**Evening virtual social via gather.town - meet and discuss experiences with your peers and trainers while enjoying your favourite food delivery service!**
 
 ### Day 3, Wednesday 1st Dec
 
