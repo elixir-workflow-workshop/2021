@@ -47,11 +47,15 @@ Please register via [surveymonkey](https://www.surveymonkey.de/r/GSSG3YY)
 
 Link to material: coming soon...
 
-**13:00-15:00: workflUX and workflows in the cloud**
- - Sven Twardziok, *Berlin Institute of Health at Charité University Hospital, Germany*
+**13:00-14:00: workflUX - The Workflow User eXperience **
  - Pavlo Lutsik, *German Cancer Research Centre, Germany*
  - Mei-Ju Chen, *German Cancer Research Centre, Germany*
  - Clarissa Feuerstein, *German Cancer Research Centre, Germany*
+
+Link to material: coming soon...
+
+**14:00-15:00: WESkit: GA4GH-compliant workflow execution for stability and production **
+ - Sven Twardziok, *Berlin Institute of Health at Charité University Hospital, Germany*
 
 Link to material: coming soon...
 
