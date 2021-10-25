@@ -47,14 +47,14 @@ Please register via [surveymonkey](https://www.surveymonkey.de/r/GSSG3YY)
 
 Link to material: coming soon...
 
-**13:00-14:00: workflUX - The Workflow User eXperience **
+**13:00-14:00: workflUX - The Workflow User eXperience**
  - Pavlo Lutsik, *German Cancer Research Centre, Germany*
  - Mei-Ju Chen, *German Cancer Research Centre, Germany*
  - Clarissa Feuerstein, *German Cancer Research Centre, Germany*
 
 Link to material: coming soon...
 
-**14:00-15:00: WESkit: GA4GH-compliant workflow execution for stability and production **
+**14:00-15:00: WESkit: GA4GH-compliant workflow execution for stability and production**
  - Sven Twardziok, *Berlin Institute of Health at Charité University Hospital, Germany*
 
 Link to material: coming soon...
@@ -73,7 +73,7 @@ Link to material: [https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.
 
 Link to material: coming soon...
 
-**Evening virtual social via gather.town - meet and discuss experiences with your peers and trianers while enjoying your favourite food devilvery service!**
+**Evening virtual social via gather.town - meet and discuss experiences with your peers and trianers while enjoying your favourite food delivery service!**
 
 ### Day 3, Wednesday 1st Dec
 
