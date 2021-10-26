@@ -1,5 +1,6 @@
 ## ELIXIR Reproducible Research Workshop: Bioinformatics Workflow Management 2021
 ## Monday 29th November - Wednesday 1st December 2021
+## This event is currently oversubscribed
 
 Reproducibility is a cornerstone of good scientific practice. Thanks to funding provided by ELIXIR Training Platform Task 2, we have brought together the biggest names in bioinformatics workflow management for a 3 day practical workshop. We have presentations from the development teams of CWL, Snakemake, Nextflow, nf-core and more. If you want to learn more about the workflow management concepts that will be addressed in this workshop, check out these articles:
  - [Workflow systems turn raw data into scientific knowledge](https://doi.org/10.1038/d41586-019-02619-z)
@@ -27,7 +28,8 @@ Reproducibility is a cornerstone of good scientific practice. Thanks to funding 
 
 **Contact: for more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](naveed.ishaque@bih-charite.de)**
 
-## Registration - please note that we are over subscribed! ##
+## This event is currently oversubscribed
+## Registration - please note that we are oversubscribed! ##
 
 ~~Please register via [surveymonkey](https://www.surveymonkey.de/r/GSSG3YY)~~
 
@@ -94,8 +96,8 @@ Link to material: coming soon...
 
 **15:00-15:15: closing remarks**
 
-
-## Registration - please note that we are over subscribed! ##
+## This event is currently oversubscribed
+## Registration - please note that we are oversubscribed! ##
 
 ~~Please register via [surveymonkey](https://www.surveymonkey.de/r/GSSG3YY)~~
 
