@@ -27,9 +27,11 @@ Reproducibility is a cornerstone of good scientific practice. Thanks to funding 
 
 **Contact: for more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](naveed.ishaque@bih-charite.de)**
 
-## Registration ##
+## Registration - please note that we are over subscribed! ##
 
-Please register via [surveymonkey](https://www.surveymonkey.de/r/GSSG3YY)
+~~Please register via [surveymonkey](https://www.surveymonkey.de/r/GSSG3YY)~~
+
+We are currently oversubscribed. Please email fill in the survey monkey link above, and email naveed.ishaque@bih.charite.de to be placed on the wating list.
 
 <a href="https://www.surveymonkey.de/r/GSSG3YY"><img src="https://user-images.githubusercontent.com/92855176/138662567-2dc6d014-32dd-409f-b760-ad5ad0486ced.png" width="200" height="200"></a>
 
@@ -93,9 +95,11 @@ Link to material: coming soon...
 **15:00-15:15: closing remarks**
 
 
-## Registration ##
+## Registration - please note that we are over subscribed! ##
 
-Please register via [surveymonkey](https://www.surveymonkey.de/r/GSSG3YY)
+~~Please register via [surveymonkey](https://www.surveymonkey.de/r/GSSG3YY)~~
+
+We are currently oversubscribed. Please email fill in the survey monkey link above, and email naveed.ishaque@bih.charite.de to be placed on the wating list.
 
 <a href="https://www.surveymonkey.de/r/GSSG3YY"><img src="https://user-images.githubusercontent.com/92855176/138662567-2dc6d014-32dd-409f-b760-ad5ad0486ced.png" width="200" height="200"></a>
 
