@@ -22,7 +22,7 @@ Reproducibility is a cornerstone of good scientific practice. Thanks to funding 
 
 **Places:** 30 attendees - apply soon to avoid disappointment!
 
-**Location: virtual via Zoom**. The practical sessions will require use of your own laptop, HPC etc. Please note that you will be expected to set up software environments for the practical sessions before hand. Details on how to do this will be provided in due course.
+**Location: virtual via Zoom**. The practical sessions will require use of your own laptop, HPC etc. **You will need access to a linux terminal**. Please note that you will be expected to set up software environments for the practical sessions before hand. Details on how to do this will be provided in due course.
 
 **Dates:** Monday 29th November – Wednesday 1st December.
 
