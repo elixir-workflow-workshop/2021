@@ -31,7 +31,7 @@ Reproducibility is a cornerstone of good scientific practice. Thanks to funding 
 ## This event is currently oversubscribed
 ## Registration for active particiaption is closed##
 
-We are currently oversubscribed. Please email naveed.ishaque@bih.charite.de to be placed on the wating list or if you would like to see the live stream without active participation..
+We are currently oversubscribed. Please email naveed.ishaque@bih-charite.de to be placed on the wating list or if you would like to see the live stream without active participation..
 
 ## Provisional Schedule
 
@@ -95,7 +95,7 @@ Link to material: coming soon...
 ## This event is currently oversubscribed
 ## Registration for active particiaption is closed
 
-We are currently oversubscribed. Please email naveed.ishaque@bih.charite.de to be placed on the wating list or if you would like to see the live stream without active participation..
+We are currently oversubscribed. Please email naveed.ishaque@bih-charite.de to be placed on the wating list or if you would like to see the live stream without active participation..
 
 ## Poster
 
