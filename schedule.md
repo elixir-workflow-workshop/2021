@@ -3,8 +3,6 @@ layout: page
 title: Schedule
 ---
 
-## Schedule
-
 This workshop will take place from **29th Nov - 1st Dec 2021**. The timing of this event will be Central European Time (CET).
 
 Zoom links will be sent out to the 30 active participants.
