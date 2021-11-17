@@ -5,3 +5,7 @@ header_pages:
   - schedule.md
   - preparation.md
   - contact.md
+
+author:
+  name: Naveed Ishaque
+  email: "naveed.ishaque@bih-charite.de"
