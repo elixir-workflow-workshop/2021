@@ -1,1 +1,0 @@
-# Details for snakemake session
