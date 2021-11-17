@@ -54,10 +54,10 @@ All participants will be expected to:
  - Active participants will undertake the tutorial on AWS. All you need is a browser and internet connection. Connection details will be sent to the active participants before the start of the session. 
  - For the others following, they can use any Linux, macOS, or Windows WSL environment with minimal requirements (Bash + Java + Docker) as described here: [https://seqera.io/training/#_environment_setup](https://seqera.io/training/#_environment_setup)
 
-**Course material:** *coming soon!* The old training material is available here: https://seqera.io/training/
+**Course material:** *coming soon!* The old training material is available here: [https://seqera.io/training/](https://seqera.io/training/)
 
 ### nf-core (13:00 - 15:00)
 
 **Preparation advice:** participants should install Nextflow and Docker. Further instructions here: [https://nf-co.re/usage/installation](https://nf-co.re/usage/installation)
 
-**Course material:** https://nf-co.re/usage/tutorials/nf_core_tutorial
+**Course material:** [https://nf-co.re/usage/tutorials/nf_core_tutorial](https://nf-co.re/usage/tutorials/nf_core_tutorial)
