@@ -28,7 +28,7 @@ All participants will be expected to:
 
 ### WESkit: GA4GH-compliant workflow execution (14:00 - 15:00)
 
-**Preparation advice:** no special preparation is required.
+**Preparation advice:** no special preparation is required
 
 **Course material:** *coming soon!* Until then, check out the getting started guide: [https://gitlab.com/one-touch-pipeline/weskit/documentation/-/blob/master/deployment/getting_started.md](https://gitlab.com/one-touch-pipeline/weskit/documentation/-/blob/master/deployment/getting_started.md)
 
@@ -36,7 +36,7 @@ All participants will be expected to:
 
 ### Snakemake (09:30 - 12:00)
 
-**Preparation advice:** the course will use gitpod in your browser, so no installation or setups required.
+**Preparation advice:** the course will use gitpod in your browser, so no installation or setups required
 
 **Course material:** https://snakemake.readthedocs.io/en/stable/tutorial/short.html
 
@@ -51,7 +51,7 @@ All participants will be expected to:
 ### Nextflow (09:30 - 12:00)
 
 **Preparation advice:**
- - Active participants will undertake the tutorial on AWS. All you need is a browser and internet connection. Connection details will be sent to the active participants before the start of the session. 
+ - Active participants will undertake the tutorial on AWS. All you need is a browser and internet connection. Connection details will be sent to the active participants before the start of the session
  - For the others following, they can use any Linux, macOS, or Windows WSL environment with minimal requirements (Bash + Java + Docker) as described here: [https://seqera.io/training/#_environment_setup](https://seqera.io/training/#_environment_setup)
 
 **Course material:** *coming soon!* The old training material is available here: [https://seqera.io/training/](https://seqera.io/training/)
