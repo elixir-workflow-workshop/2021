@@ -1,6 +1,6 @@
 ## ELIXIR Reproducible Research Workshop: Bioinformatics Workflow Management 2021
 ## Monday 29th November - Wednesday 1st December 2021
-## This event is currently oversubscribed
+## This event will be live streamed on twitch: https://www.twitch.tv/elixir_workshops/
 
 Reproducibility is a cornerstone of good scientific practice. Thanks to funding provided by ELIXIR Training Platform Task 2, we have brought together the biggest names in bioinformatics workflow management for a 3 day practical workshop. We have presentations from the development teams of CWL, Snakemake, Nextflow, nf-core and more. If you want to learn more about the workflow management concepts that will be addressed in this workshop, check out these articles:
  - [Workflow systems turn raw data into scientific knowledge](https://doi.org/10.1038/d41586-019-02619-z)
@@ -28,10 +28,11 @@ Reproducibility is a cornerstone of good scientific practice. Thanks to funding 
 
 **Contact: for more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](naveed.ishaque@bih-charite.de)**
 
-## This event is currently oversubscribed
-## Registration for active particiaption is closed##
+## This event will be live streamed on twitch: https://www.twitch.tv/elixir_workshops/
 
-We are currently oversubscribed. Please email naveed.ishaque@bih-charite.de to be placed on the wating list or if you would like to see the live stream without active participation..
+We are currently oversubscribed, but an open livestream will openly accessible to all via twitch: https://www.twitch.tv/elixir_workshops/. 
+
+Please email naveed.ishaque@bih-charite.de for further information.
 
 ## Provisional Schedule
 
@@ -92,10 +93,11 @@ Link to material: coming soon...
 
 **15:00-15:15: closing remarks**
 
-## This event is currently oversubscribed
-## Registration for active particiaption is closed
+## This event will be live streamed on twitch: https://www.twitch.tv/elixir_workshops/
 
-We are currently oversubscribed. Please email naveed.ishaque@bih-charite.de to be placed on the wating list or if you would like to see the live stream without active participation..
+We are currently oversubscribed, but an open livestream will openly accessible to all via twitch: https://www.twitch.tv/elixir_workshops/. 
+
+**Contact: for more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](naveed.ishaque@bih-charite.de)**
 
 ## Poster
 
