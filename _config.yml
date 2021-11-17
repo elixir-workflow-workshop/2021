@@ -2,4 +2,6 @@ theme: minima
 
 header_pages:
   - index.md
-  - snakemake.md
+  - schedule.md
+  - preparation.md
+  - contact.md
