@@ -4,9 +4,10 @@ title: Home
 ---
 
 ## ELIXIR Reproducible Research Workshop: Bioinformatics Workflow Management 2021
-## Monday 29th November - Wednesday 1st December 2021
 
-**This event will be live streamed on twitch: https://www.twitch.tv/elixir_workshops/**
+**Monday 29th November - Wednesday 1st December 2021**
+
+**This event will be live streamed on twitch: [https://www.twitch.tv/elixir_workshops/](https://www.twitch.tv/elixir_workshops/)**
 
 Reproducibility is a cornerstone of good scientific practice. Thanks to funding provided by ELIXIR Training Platform Task 2, we have brought together the biggest names in bioinformatics workflow management for a 3 day practical workshop. We have presentations from the development teams of CWL, Snakemake, Nextflow, nf-core and more. If you want to learn more about the workflow management concepts that will be addressed in this workshop, check out these articles:
  - [Workflow systems turn raw data into scientific knowledge](https://doi.org/10.1038/d41586-019-02619-z)
@@ -34,76 +35,17 @@ Reproducibility is a cornerstone of good scientific practice. Thanks to funding 
 
 **Contact: for more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](naveed.ishaque@bih-charite.de)**
 
-## This event will be live streamed on twitch: https://www.twitch.tv/elixir_workshops/
+**This event will be live streamed on twitch: [https://www.twitch.tv/elixir_workshops/](https://www.twitch.tv/elixir_workshops/)**
 
-We are currently oversubscribed, but an open livestream will openly accessible to all via twitch: https://www.twitch.tv/elixir_workshops/. 
+We are currently oversubscribed, but an open livestream will openly accessible to all via twitch: [https://www.twitch.tv/elixir_workshops/](https://www.twitch.tv/elixir_workshops/). 
 
 Please email naveed.ishaque@bih-charite.de for further information.
 
-## Provisional Schedule
+## [Schedule of events](schedule.html)
 
-### Day 1: Monday 29th November
+## [Preparing for the workshop](preparation.html)
 
-**09:30-12:00: opening remarks**
- - Naveed Ishaque
-
-**09:30-12:00: CWL**
- - Michael R. Crusoe, *Vrije Universiteit Amsterdam (VU Amsterdam), Netherlands*
- - Celia van Gelder, *Dutch Techcentre for Life Sciences, Netherlands*
- - Fotis E. Psomopoulos, *Centre for Research and Technology Hellas, Greece*
-
-Link to material: coming soon...
-
-**13:00-14:00: workflUX - The Workflow User eXperience**
- - Pavlo Lutsik, *German Cancer Research Centre, Germany*
- - Mei-Ju Chen, *German Cancer Research Centre, Germany*
- - Clarissa Feuerstein, *German Cancer Research Centre, Germany*
-
-Link to material: coming soon...
-
-**14:00-15:00: WESkit: GA4GH-compliant workflow execution for stability and production**
- - Sven Twardziok, *Berlin Institute of Health at Charité University Hospital, Germany*
-
-Link to material: coming soon...
-
-### Day 2: Tuesday 30th Nov
-
-**09:30-12:00: Snakemake**
-- Johannes Köster, *University of Duisberg and Essen, Germany*
-
-Link to material: [https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html](https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html)
-
-**13:00-15:00: OpenEBench**
-- Salvador Capella-Gutierrez, *Barcelona Super Computing Centre, Spain*
-- Laura Portell, *Barcelona Super Computing Centre, Spain*
-- Asier Gonzalez, *Barcelona Super Computing Centre, Spain*
-
-Link to material: coming soon...
-
-**Evening virtual social via gather.town - meet and discuss experiences with your peers and trainers while enjoying your favourite food delivery service!**
-
-### Day 3, Wednesday 1st Dec
-
-**09:30-12:00: Nextflow**
-- Paolo Di Tommaso, *Seqera Labs, Spain*
-- Evan Floden, *Seqera Labs, Spain*
-- Luca Cozzuto, *Centre for Genomics Regulation, Spain*
-
-Link to material: coming soon...
-
-**13:00-15:00: nf-core**
- - Gisela Gabernet, *University of Tübingen, Germany*
- - Friederike Hanssen, *University of Tübingen, Germany*
-
-Link to material: coming soon...
-
-**15:00-15:15: closing remarks**
-
-## This event will be live streamed on twitch: https://www.twitch.tv/elixir_workshops/
-
-We are currently oversubscribed, but an open livestream will openly accessible to all via twitch: https://www.twitch.tv/elixir_workshops/. 
-
-**Contact: for more information email Naveed Ishaque, [naveed.ishaque@bih-charite.de](naveed.ishaque@bih-charite.de)**
+## [Contact detaisl for further infromation](contact.html)
 
 ## Poster
 
