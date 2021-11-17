@@ -45,7 +45,7 @@ Please email naveed.ishaque@bih-charite.de for further information.
 
 ## [Preparing for the workshop](preparation.html)
 
-## [Contact detaisl for further infromation](contact.html)
+## [Contact details for further infromation](contact.html)
 
 ## Poster
 
