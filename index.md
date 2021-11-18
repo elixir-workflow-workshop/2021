@@ -7,6 +7,8 @@ title: Home
 
 **Monday 29th November - Wednesday 1st December 2021**
 
+**Streamed live on twitch: [https://www.twitch.tv/elixir_workshops/](https://www.twitch.tv/elixir_workshops/)**
+
 Reproducibility is a cornerstone of good scientific practice. Thanks to funding provided by ELIXIR Training Platform Task 2, we have brought together the biggest names in bioinformatics workflow management for a 3 day practical workshop. We have presentations from the development teams of CWL, Snakemake, Nextflow, nf-core and more. If you want to learn more about the workflow management concepts that will be addressed in this workshop, check out these articles:
  - [Workflow systems turn raw data into scientific knowledge](https://doi.org/10.1038/d41586-019-02619-z)
  - [Methods Included: Standardizing Computational Reuse and Portability with the Common Workflow Language](https://arxiv.org/abs/2105.07028)
