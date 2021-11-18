@@ -5,8 +5,6 @@ title: Schedule
 
 This workshop will take place from **29th November - 1st December 2021**. The timing of this event will be **Central European Time (CET)**.
 
-**Registration:** registration is closed. The event will be live streamed via twitch. Zoom links will be sent out to the full registered participants.
-
 **Live stream:** this event will be live streamed on twitch: [https://www.twitch.tv/elixir_workshops/](https://www.twitch.tv/elixir_workshops/)
 
 ### Day 1: Monday 29th November
