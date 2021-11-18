@@ -38,7 +38,7 @@ All participants will be expected to:
 
 **Preparation advice:** the course will use gitpod in your browser, so no installation or setups required
 
-**Course material:** https://snakemake.readthedocs.io/en/stable/tutorial/short.html
+**Course material:** [https://snakemake.readthedocs.io/en/stable/tutorial/short.html](https://snakemake.readthedocs.io/en/stable/tutorial/short.html)
 
 ### OpenEBench (13:00 - 14:30)
 
