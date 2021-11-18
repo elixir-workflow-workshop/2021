@@ -1,9 +1,8 @@
 theme: minima
 
 title: ELIXIR Workflow Workshop
-author: 
-  name: Naveed Ishaque
-  email: naveed.ishaque@bih-charite.de
+author: Naveed Ishaque
+email: naveed.ishaque@bih-charite.de
 description: > 
   ELIXIR training workshop for bioinformatics workflow management. 
   Learn about the leading DSL and tools: CWL, Snakemake, Nextflow, 
