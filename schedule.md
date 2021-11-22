@@ -14,7 +14,6 @@ This workshop will take place from **29th November - 1st December 2021**. The ti
 
 **09:30-12:00: CWL**
  - Michael R. Crusoe, *Vrije Universiteit Amsterdam (VU Amsterdam), Netherlands*
- - Celia van Gelder, *Dutch Techcentre for Life Sciences, Netherlands*
  - Fotis E. Psomopoulos, *Centre for Research and Technology Hellas, Greece*
 
 **13:00-14:00: workflUX - The Workflow User eXperience**
