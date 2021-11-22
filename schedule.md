@@ -9,7 +9,7 @@ This workshop will take place from **29th November - 1st December 2021**. The ti
 
 ### Day 1: Monday 29th November
 
-**09:00-09:30: opening remarks**
+**09:15-09:30: opening remarks**
  - Naveed Ishaque
 
 **09:30-12:00: CWL**
@@ -30,7 +30,7 @@ This workshop will take place from **29th November - 1st December 2021**. The ti
 **09:30-12:00: Snakemake**
 - Johannes Köster, *University of Duisberg and Essen, Germany*
 
-**13:00-15:00: OpenEBench**
+**13:00-14:30: OpenEBench**
 - Salvador Capella-Gutierrez, *Barcelona Super Computing Centre, Spain*
 - Laura Portell, *Barcelona Super Computing Centre, Spain*
 - Asier Gonzalez, *Barcelona Super Computing Centre, Spain*
@@ -50,4 +50,4 @@ This workshop will take place from **29th November - 1st December 2021**. The ti
 
 **15:00-15:15: closing remarks**
 
-**This event will be live streamed on twitch: [https://www.twitch.tv/elixir_workshops/](https://www.twitch.tv/elixir_workshops/)**
+**Live stream:** this event will be live streamed on twitch: [https://www.twitch.tv/elixir_workshops/](https://www.twitch.tv/elixir_workshops/)
