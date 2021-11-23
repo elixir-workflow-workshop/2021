@@ -24,29 +24,29 @@ This workshop will take place from **29th November - 1st December 2021**. The ti
 **14:00-15:00: WESkit: GA4GH-compliant workflow execution for stability and production**  <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day1_WESkit.ics" download>[add to calendar]</a>
  - Sven Twardziok, *Berlin Institute of Health at Charité University Hospital, Germany*
 
-### Day 2: Tuesday 30th Nov
+### Day 2: Tuesday 30th Nov <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day2.ics" download>[add to calendar]</a>
 
-**09:30-12:00: Snakemake**
+**09:30-12:00: Snakemake** <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day2_snakemake.ics" download>[add to calendar]</a>
 - Johannes Köster, *University of Duisberg and Essen, Germany*
 
-**13:00-14:30: OpenEBench**
+**13:00-14:30: OpenEBench** <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day2_OpenEBench.ics" download>[add to calendar]</a>
 - Salvador Capella-Gutierrez, *Barcelona Super Computing Centre, Spain*
 - Laura Portell, *Barcelona Super Computing Centre, Spain*
 - Asier Gonzalez, *Barcelona Super Computing Centre, Spain*
 
 **Evening virtual social via gather.town - meet and discuss experiences with your peers and trainers while enjoying your favourite food delivery service!**
 
-### Day 3, Wednesday 1st Dec
+### Day 3, Wednesday 1st Dec <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day3.ics" download>[add to calendar]</a>
 
-**09:30-12:00: Nextflow**
+**09:30-12:00: Nextflow** <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day3_Nextflow.ics" download>[add to calendar]</a>
 - Paolo Di Tommaso, *Seqera Labs, Spain*
 - Evan Floden, *Seqera Labs, Spain*
 - Luca Cozzuto, *Centre for Genomics Regulation, Spain*
 
-**13:00-15:00: nf-core**
+**13:00-15:00: nf-core** <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day3_nfcore.ics" download>[add to calendar]</a>
  - Gisela Gabernet, *University of Tübingen, Germany*
  - Friederike Hanssen, *University of Tübingen, Germany*
 
-**15:00-15:15: closing remarks**
+**15:00-15:15: closing remarks** <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day3_close.ics" download>[add to calendar]</a>
 
 **Live stream:** this event will be live streamed on twitch: [https://www.twitch.tv/elixir_workshops/](https://www.twitch.tv/elixir_workshops/)
