@@ -7,21 +7,21 @@ This workshop will take place from **29th November - 1st December 2021**. The ti
 
 **Live stream:** this event will be live streamed on twitch: [https://www.twitch.tv/elixir_workshops/](https://www.twitch.tv/elixir_workshops/)
 
-### Day 1: Monday 29th November
+### Day 1: Monday 29th November <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day1.ics" download>[add to calendar]</a>
 
-**09:15-09:30: opening remarks**
+**09:15-09:30: opening remarks**  <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day1_opening.ics" download>[add to calendar]</a>
  - Naveed Ishaque
 
-**09:30-12:00: CWL**
+**09:30-12:00: CWL**  <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day1_CWL.ics" download>[add to calendar]</a>
  - Michael R. Crusoe, *Vrije Universiteit Amsterdam (VU Amsterdam), Netherlands*
  - Fotis E. Psomopoulos, *Centre for Research and Technology Hellas, Greece*
 
-**13:00-14:00: workflUX - The Workflow User eXperience**
+**13:00-14:00: workflUX - The Workflow User eXperience**  <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day1_workflUX.ics" download>[add to calendar]</a>
  - Pavlo Lutsik, *German Cancer Research Centre, Germany*
  - Mei-Ju Chen, *German Cancer Research Centre, Germany*
  - Clarissa Feuerstein, *German Cancer Research Centre, Germany*
 
-**14:00-15:00: WESkit: GA4GH-compliant workflow execution for stability and production**
+**14:00-15:00: WESkit: GA4GH-compliant workflow execution for stability and production**  <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day1_WESkit.ics" download>[add to calendar]</a>
  - Sven Twardziok, *Berlin Institute of Health at Charité University Hospital, Germany*
 
 ### Day 2: Tuesday 30th Nov
