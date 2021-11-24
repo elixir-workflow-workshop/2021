@@ -22,9 +22,9 @@ All participants will be expected to:
 
 ### workflUX - the Workflow User eXperience (13:00- 14:00)
 
-**Preparation advice:** the session will make use of the de.NBI cloud so an ELIXIR account is required. Register here: [https://elixir-europe.org/register](https://elixir-europe.org/register)
+**Preparation advice:** the session will make use of the de.NBI cloud so an ELIXIR account is required. Register here: [https://elixir-europe.org/register](https://elixir-europe.org/register) or write an email to c.feuerstein@dkfz.de to request access.
 
-**Course material:** *coming soon!* Until then, check out the github page: [https://github.com/CompEpigen/workflUX](https://github.com/CompEpigen/workflUX)
+**Course material:** [https://github.com/CompEpigen/workflUX/blob/master/tutorials/Covid19_MSA_Group_Comparison.md](https://github.com/CompEpigen/workflUX/blob/master/tutorials/Covid19_MSA_Group_Comparison.md)
 
 ### WESkit: GA4GH-compliant workflow execution (14:00 - 15:00)
 
