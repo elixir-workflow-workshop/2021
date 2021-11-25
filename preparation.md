@@ -28,7 +28,7 @@ All participants will be expected to:
 
 ### WESkit: GA4GH-compliant workflow execution (14:00 - 15:00)
 
-**Preparation advice:** no special preparation is required
+**Preparation advice:** no special preparation is required for active participants via Zoom. For those watching the twitch stream, please read the setup instructions here: [https://gitlab.com/one-touch-pipeline/weskit/documentation/-/blob/master/deployment/getting_started.md](https://gitlab.com/one-touch-pipeline/weskit/documentation/-/blob/master/deployment/getting_started.md)
 
 **Course material:** *coming soon!* Until then, check out the getting started guide: [https://gitlab.com/one-touch-pipeline/weskit/documentation/-/blob/master/deployment/getting_started.md](https://gitlab.com/one-touch-pipeline/weskit/documentation/-/blob/master/deployment/getting_started.md)
 
