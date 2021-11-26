@@ -42,9 +42,9 @@ All participants will be expected to:
 
 ### OpenEBench (13:00 - 14:30)
 
-**Preparation advice:** participants should have a laptop with git, python, nextflow/cwltool, docker/singularity installed
+**Preparation advice:** the hands-on exercises require having git, Docker and Nextflow installed locally.
 
-**Course material:** *coming soon!* Until then, check out the technical documentation on RTDs: [https://openebench.readthedocs.io/en/latest/](https://openebench.readthedocs.io/en/latest/)
+**Course material:** [https://github.com/inab/TCGA_benchmarking_workflow/blob/master/README.md](https://github.com/inab/TCGA_benchmarking_workflow/blob/master/README.md)
 
 ## Wednesday sessions
 
