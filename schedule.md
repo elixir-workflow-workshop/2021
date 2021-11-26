@@ -34,7 +34,9 @@ This workshop will take place from **29th November - 1st December 2021**. The ti
 - Laura Portell, *Barcelona Super Computing Centre, Spain*
 - Asier Gonzalez, *Barcelona Super Computing Centre, Spain*
 
-**Evening virtual social via gather.town - meet and discuss experiences with your peers and trainers while enjoying your favourite food delivery service!**
+**18:00 onwards: Evening virtual social via gather.town** <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day2_gathertown.ics" download>[add to calendar]</a>
+- meet and discuss experiences with your peers and trainers while enjoying your favourite food delivery service!
+- https://gather.town/app/LXs6trASOy6RiK8S/ELIXIR_workflow_workshop
 
 ### Day 3, Wednesday 1st Dec <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day3.ics" download>[add to calendar]</a>
 
