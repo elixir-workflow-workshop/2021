@@ -51,10 +51,9 @@ All participants will be expected to:
 ### Nextflow (09:30 - 12:00)
 
 **Preparation advice:**
- - Active participants will undertake the tutorial on AWS. All you need is a browser and internet connection. Connection details will be sent to the active participants before the start of the session
- - For the others following, they can use any Linux, macOS, or Windows WSL environment with minimal requirements (Bash + Java + Docker) as described here: [https://seqera.io/training/#_environment_setup](https://seqera.io/training/#_environment_setup)
+ - Active participants will undertake the tutorial in a cloud environment delivered via [Gitpod](https://www.gitpod.io/). All you need is a browser and internet connection. Make sure to have a [GitHub](https://github.com/) account and register for a free [Gitpod](https://www.gitpod.io/) account. 
 
-**Course material:** *coming soon!* The old training material is available here: [https://seqera.io/training/](https://seqera.io/training/)
+**Course material:** [https://nextflow-io.github.io/elixir-workshop-21/docs/](https://nextflow-io.github.io/elixir-workshop-21/docs/)
 
 ### nf-core (13:00 - 15:00)
 
