@@ -33,6 +33,8 @@ This workshop will take place from **29th November - 1st December 2021**. The ti
 - Salvador Capella-Gutierrez, *Barcelona Super Computing Centre, Spain*
 - Laura Portell, *Barcelona Super Computing Centre, Spain*
 - Asier Gonzalez, *Barcelona Super Computing Centre, Spain*
+- Jose Maria Fernandez, *Barcelona Super Computing Centre, Spain*
+- Laura Rodriguez-Navas, *Barcelona Super Computing Centre, Spain*
 
 **18:00 onwards: Evening virtual social via gather.town** <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day2_gathertown.ics" download>[add to calendar]</a>
 - meet and discuss experiences with your peers and trainers while enjoying your favourite food delivery service!
