@@ -50,8 +50,7 @@ All participants will be expected to:
 
 ### Nextflow (09:30 - 12:00)
 
-**Preparation advice:**
- - Active participants will undertake the tutorial in a cloud environment delivered via [Gitpod](https://www.gitpod.io/). All you need is a browser and internet connection. Make sure to have a [GitHub](https://github.com/) account and register for a free [Gitpod](https://www.gitpod.io/) account. 
+**Preparation advice:** participants will undertake the tutorial in a cloud environment delivered via [Gitpod](https://www.gitpod.io/). All you need is a browser and internet connection. Make sure to have a [GitHub](https://github.com/) account and register for a free [Gitpod](https://www.gitpod.io/) account. 
 
 **Course material:** [https://nextflow-io.github.io/elixir-workshop-21/docs/](https://nextflow-io.github.io/elixir-workshop-21/docs/)
 
