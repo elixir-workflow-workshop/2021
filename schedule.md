@@ -9,7 +9,7 @@ This workshop will take place from **29th November - 1st December 2021**. The ti
 
 ### Day 1: Monday 29th November <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day1.ics" download><img src="images/calendar_icon.png" alt="drawing" width="20"/></a>
 
-**09:15-09:30: opening remarks**  <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day1_opening.ics" download><img src="images/calendar_icon.png" alt="drawing" width="20"/></a>
+**09:15-09:30: opening remarks** <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day1_opening.ics" download><img src="images/calendar_icon.png" alt="drawing" width="20"/></a> <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_opening_v1.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="20"/></a> <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_opening_v1.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="20"/></a>
  - Naveed Ishaque
 
 **09:30-12:00: CWL**  <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day1_CWL.ics" download><img src="images/calendar_icon.png" alt="drawing" width="20"/></a>
