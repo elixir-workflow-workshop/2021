@@ -17,6 +17,7 @@ Reproducibility is a cornerstone of good scientific practice. Thanks to funding 
  - [The nf-core framework for community-curated bioinformatics pipelines](https://doi.org/10.1038/s41587-020-0439-x)
  - [Lessons Learned: Recommendations for Establishing Critical Periodic Scientific Benchmarking](https://doi.org/10.1101/181677)
  - [Registering workflows via the ELIXIR workflow hub](https://workflowhub.eu)
+ - You can also monitor workflows via [LifeMonitor](https://crs4.github.io/life_monitor/) and benchmark them via [OpenEBench](https://openebench.bsc.es/dashboard)
 
 ## Details
 
