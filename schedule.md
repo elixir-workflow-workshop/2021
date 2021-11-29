@@ -21,7 +21,7 @@ This workshop will take place from **29th November - 1st December 2021**. The ti
  - Mei-Ju Chen, *German Cancer Research Centre, Germany*
  - Clarissa Feuerstein, *German Cancer Research Centre, Germany*
 
-**14:00-15:00: WESkit: GA4GH-compliant workflow execution for stability and production**  <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day1_WESkit.ics" download><img src="images/calendar_icon.png" alt="drawing" width="20"/></a>
+**14:00-15:00: WESkit: GA4GH-compliant workflow execution for stability and production**  <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day1_WESkit.ics" download><img src="images/calendar_icon.png" alt="drawing" width="20"/></a>  <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_WESkit.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="20"/></a> <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_WESkit.pdf" download><img src="images/PDF_icon.png" alt="drawing" height="20"/></a>
  - Sven Twardziok, *Berlin Institute of Health at Charité University Hospital, Germany*
 
 ### Day 2: Tuesday 30th Nov <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day2.ics" download><img src="images/calendar_icon.png" alt="drawing" width="20"/></a>
