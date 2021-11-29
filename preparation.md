@@ -20,7 +20,7 @@ All participants will be expected to:
 
 **Course material:** [https://www.dropbox.com/sh/zvgsn0qj7lclgmp/AAALVMqrnGJb2CiC27e1TNQaa/20211129?dl=0&subfolder_nav_tracking=1](https://www.dropbox.com/sh/zvgsn0qj7lclgmp/AAALVMqrnGJb2CiC27e1TNQaa/20211129?dl=0&subfolder_nav_tracking=1)
 
-### workflUX - the Workflow User eXperience (13:00- 14:00) <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day1_workflUX.ics" download><img src="images/calendar_icon.png" alt="drawing" width="20"/></a> <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_WorkflUX_final.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="20"/></a> <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_WorkflUX_final.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="20"/></a>
+### workflUX - the Workflow User eXperience (13:00- 14:00) <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_WorkflUX_final.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="20"/></a> <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_WorkflUX_final.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="20"/></a>
 
 **Preparation advice:** the session will make use of the de.NBI cloud so an ELIXIR account is required. Register here: [https://elixir-europe.org/register](https://elixir-europe.org/register) or write an email to c.feuerstein@dkfz.de to request access.
 
