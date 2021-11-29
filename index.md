@@ -47,7 +47,7 @@ Reproducibility is a cornerstone of good scientific practice. Thanks to funding 
 
 ## Poster
 
-![poster](https://user-images.githubusercontent.com/92855176/138649774-e77fad4b-1b9c-425f-b7e3-29700a441caf.png)
+![poster](images/ElixirWorkflowWorkshop2021_v5_1200px.png)
 
 ## de.NBI - the German Network for Bioformatics
 Read more about the German contributions to the ELIXIR program [here](https://www.denbi.de/)
