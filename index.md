@@ -16,6 +16,7 @@ Reproducibility is a cornerstone of good scientific practice. Thanks to funding 
  - [Nextflow enables reproducible computational workflows](https://doi.org/10.1038/nbt.3820)
  - [The nf-core framework for community-curated bioinformatics pipelines](https://doi.org/10.1038/s41587-020-0439-x)
  - [Lessons Learned: Recommendations for Establishing Critical Periodic Scientific Benchmarking](https://doi.org/10.1101/181677)
+ - [Registering workflows via the ELIXIR workflow hub](https://workflowhub.eu)
 
 ## Details
 
