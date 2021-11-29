@@ -26,7 +26,7 @@ All participants will be expected to:
 
 **Course material:** [https://github.com/CompEpigen/workflUX/blob/master/tutorials/Covid19_MSA_Group_Comparison.md](https://github.com/CompEpigen/workflUX/blob/master/tutorials/Covid19_MSA_Group_Comparison.md)
 
-### WESkit: GA4GH-compliant workflow execution (14:00 - 15:00)
+### WESkit: GA4GH-compliant workflow execution (14:00 - 15:00)  <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_WorkflUX_final.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="20"/></a> <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_WorkflUX_final.pdf" download><img src="images/PDF_icon.png" alt="drawing" height="20"/></a>
 
 **Preparation advice:** no special preparation is required for active participants via Zoom. For those watching the twitch stream, please read the setup instructions here: [https://gitlab.com/one-touch-pipeline/weskit/documentation/-/blob/master/deployment/getting_started.md](https://gitlab.com/one-touch-pipeline/weskit/documentation/-/blob/master/deployment/getting_started.md)
 
