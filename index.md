@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-## de.NBI/ELIXIR Reproducible Research Workshop: Bioinformatics Workflow Management 2021
+## de.NBI/ELIXIR-DE Reproducible Research Workshop: Bioinformatics Workflow Management 2021
 
 **Monday 29th November - Wednesday 1st December 2021**
 
