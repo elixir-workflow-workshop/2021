@@ -14,13 +14,13 @@ All participants will be expected to:
 
 ## Monday sessions
 
-### Common Workflow Language (CWL) (09:30 - 12:00)
+### Common Workflow Language (CWL) (09:30 - 12:00) <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_CWL.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="20"/></a> <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_CWL.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="20"/></a> <a href="https://docs.google.com/presentation/d/1fz5R-j107pQ3c7U6-_eom-N_V3m4gK3N85sRGdG-Iys/" download><img src="images/google_slides_icon.png" alt="drawing" height="20"/></a>
 
 **Preparation advice:** setup instructions can be found here: [https://www.commonwl.org/user_guide/setup.html](https://www.commonwl.org/user_guide/setup.html)
 
-**Course material:** *coming soon!*
+**Course material:** [https://www.dropbox.com/sh/zvgsn0qj7lclgmp/AAALVMqrnGJb2CiC27e1TNQaa/20211129?dl=0&subfolder_nav_tracking=1](https://www.dropbox.com/sh/zvgsn0qj7lclgmp/AAALVMqrnGJb2CiC27e1TNQaa/20211129?dl=0&subfolder_nav_tracking=1)
 
-### workflUX - the Workflow User eXperience (13:00- 14:00)
+### workflUX - the Workflow User eXperience (13:00- 14:00) <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day1_workflUX.ics" download><img src="images/calendar_icon.png" alt="drawing" width="20"/></a> <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_WorkflUX_final.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="20"/></a> <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_WorkflUX_final.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="20"/></a>
 
 **Preparation advice:** the session will make use of the de.NBI cloud so an ELIXIR account is required. Register here: [https://elixir-europe.org/register](https://elixir-europe.org/register) or write an email to c.feuerstein@dkfz.de to request access.
 
