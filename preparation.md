@@ -14,7 +14,7 @@ All participants will be expected to:
 
 ## Monday sessions
 
-### Common Workflow Language (CWL) (09:30 - 12:00) <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_CWL.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="20"/></a> <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_CWL.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="20"/></a> <a href="https://docs.google.com/presentation/d/1fz5R-j107pQ3c7U6-_eom-N_V3m4gK3N85sRGdG-Iys/" download><img src="images/google_slides_icon.png" alt="drawing" height="20"/></a>
+### Common Workflow Language (CWL) (09:30 - 12:00) <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_CWL.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="20"/></a> <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_CWL.pdf" download><img src="images/PDF_icon.png" alt="drawing" width="20"/></a> <a href="https://docs.google.com/presentation/d/1fz5R-j107pQ3c7U6-_eom-N_V3m4gK3N85sRGdG-Iys/" download><img src="images/google_slides_icon.png" alt="drawing" height="20"/></a> <a href="https://www.dropbox.com/sh/zvgsn0qj7lclgmp/AACJ7_ceXq0hK2u9OrOkceXfa?dl=0" download><img src="images/dropbox_icon.png" alt="drawing" height="20"/></a>
 
 **Preparation advice:** setup instructions can be found here: [https://www.commonwl.org/user_guide/setup.html](https://www.commonwl.org/user_guide/setup.html)
 
