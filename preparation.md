@@ -36,7 +36,7 @@ All participants will be expected to:
 
 ### Snakemake (09:30 - 12:00)
 
-**Preparation advice:** the course will use gitpod in your browser, so no installation or setups required
+**Preparation advice:** the course will use gitpod in your browser, so no installation or setups required. However, please register yourself at https://gitpod.io.
 
 **Course material:** [https://snakemake.readthedocs.io/en/stable/tutorial/short.html](https://snakemake.readthedocs.io/en/stable/tutorial/short.html)
 
