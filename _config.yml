@@ -1,6 +1,6 @@
-Ntheme: minima
+theme: minima
 
-title: ELIXIR Workflow Workshop
+title: de.NBI/ELIXIR-DE Workflow Workshop
 show_excerpts: false
 
 header_pages:
