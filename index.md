@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-## ELIXIR Reproducible Research Workshop: Bioinformatics Workflow Management 2021
+## de.NBI/ELIXIR Reproducible Research Workshop: Bioinformatics Workflow Management 2021
 
 **Monday 29th November - Wednesday 1st December 2021**
 
@@ -48,3 +48,6 @@ Reproducibility is a cornerstone of good scientific practice. Thanks to funding 
 ## Poster
 
 ![poster](https://user-images.githubusercontent.com/92855176/138649774-e77fad4b-1b9c-425f-b7e3-29700a441caf.png)
+
+## de.NBI - the German Network for Bioformatics
+Read more about the German contributions to the ELIXIR program [here](https://www.denbi.de/)
