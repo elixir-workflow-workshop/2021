@@ -1,12 +1,12 @@
-theme: minima
+Ntheme: minima
 
-title: ELIXIR Workflow Workshop
+title: de.NBI/ELIXIR-DE Workflow Workshop
 author: Naveed Ishaque
 email: naveed.ishaque@bih-charite.de
 description: > 
-  ELIXIR training workshop for bioinformatics workflow management. 
-  Learn about the leading DSL and tools: CWL, Snakemake, Nextflow, 
-  nf-core, workflUX, WESkit and OpenEBench.
+  de.NBI/ELIXIR.de training workshop for bioinformatics workflow  
+  management. Learn about the leading DSL and tools: CWL,  
+  Snakemake, Nextflow, nf-core, workflUX, WESkit and OpenEBench.
 show_excerpts: false
 
 header_pages:
