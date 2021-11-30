@@ -40,7 +40,7 @@ All participants will be expected to:
 
 **Course material:** [https://snakemake.readthedocs.io/en/stable/tutorial/short.html](https://snakemake.readthedocs.io/en/stable/tutorial/short.html)
 
-### OpenEBench (13:00-14:30)
+### OpenEBench (13:00-14:30) <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_OpenEBench.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="20"/></a> <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_OpenEBench.pdf" download><img src="images/PDF_icon.png" alt="drawing" height="20"/></a>
 
 **Preparation advice:** the hands-on exercises require having git, Docker and Nextflow installed locally.
 
