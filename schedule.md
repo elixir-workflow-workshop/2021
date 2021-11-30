@@ -48,7 +48,7 @@ This workshop will take place from **29th November - 1st December 2021**. The ti
 - Evan Floden, *Seqera Labs, Spain*
 - Luca Cozzuto, *Centre for Genomics Regulation, Spain*
 
-**13:00-15:00: nf-core** <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day3_nfcore.ics" download><img src="images/calendar_icon.png" alt="drawing" width="20"/></a>
+**13:00-15:00: nf-core** <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day3_nfcore.ics" download><img src="images/calendar_icon.png" alt="drawing" width="20"/></a> <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_nfcore.pdf" download><img src="images/PDF_icon.png" alt="drawing" height="20"/></a>
  - Gisela Gabernet, *University of Tübingen, Germany*
  - Friederike Hanssen, *University of Tübingen, Germany*
 
