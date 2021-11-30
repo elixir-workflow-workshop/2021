@@ -34,7 +34,7 @@ All participants will be expected to:
 
 ## Tuesday sessions
 
-### Snakemake (09:30-12:00)
+### Snakemake (09:30-12:00) <a href="https://slides.com/johanneskoester/sustainable-data-analysis-with-snakemake"><img src="images/slides_icon.png" alt="drawing" height="20"/></a>
 
 **Preparation advice:** the course will use gitpod in your browser, so no installation or setups required. However, please register yourself at https://gitpod.io.
 
