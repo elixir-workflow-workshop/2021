@@ -27,7 +27,7 @@ DTSTART;TZID=Europe/Berlin:20211201T091500
 DTEND;TZID=Europe/Berlin:20211201T151500
 SUMMARY:ELIXIR workflow workshop day 3 - Nextflow\, nf-core\, closing remarks
 URL:https://www.twitch.tv/elixir_workshops/
-DESCRIPTION:Make sure you have prepared for the workshop: https://elixir-workflow-workshop.github.io/2021/preparation.html\n\nDay 3\, Wednesday 1st Dec\n\n09:15: stream opens\n\n09:30-12:00: Nextflow\n•	Paolo Di Tommaso\, Seqera Labs\, Spain\n•	Evan Floden\, Seqera Labs\, Spain\n•	Luca Cozzuto\, Centre for Genomics Regulation\, Spain\n\n13:00-15:00: nf-core\n•	Gisela Gabernet\, University of Tübingen\, Germany\n•	Friederike Hanssen\, University of Tübingen\, Germany\n\n15:00-15:15: closing remarks and feedback\n
+DESCRIPTION:Make sure you have prepared for the workshop: https://elixir-workflow-workshop.github.io/2021/preparation.html\n\nDay 3\, Wednesday 1st Dec\n\n09:15: stream opens\n\n09:30-12:00: Nextflow\n•	Paolo Di Tommaso\, Seqera Labs\, Spain\n•	Evan Floden\, Seqera Labs\, Spain\n•	Luca Cozzuto\, Centre for Genomics Regulation\, Spain\n\n13:00-15:00: nf-core\n•	Gisela Gabernet\, University of Tübingen\, Germany\n•	Friederike Hanssen\, University of Tübingen\, Germany\n\n15:00-15:15: Plenary talk - FAIR workflow services\n•	Professor Carole Goble, The University of Manchester, UK
 LOCATION:https://www.twitch.tv/elixir_workshops/
 TRANSP:OPAQUE
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
