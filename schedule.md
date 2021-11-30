@@ -29,7 +29,8 @@ This workshop will take place from **29th November - 1st December 2021**. The ti
 **09:30-12:00: Snakemake** <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day2_snakemake.ics" download><img src="images/calendar_icon.png" alt="drawing" width="20"/></a>
 - Johannes Köster, *University of Duisberg and Essen, Germany*
 
-**13:00-14:30: OpenEBench** <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day2_OpenEBench.ics" download><img src="images/calendar_icon.png" alt="drawing" width="20"/></a>
+**13:00-14:30: OpenEBench** <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day2_OpenEBench.ics" download><img src="images/calendar_icon.png" alt="drawing" width="20"/></a> <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_OpenEBench.pptx" download><img src="images/PPT_icon.png" alt="drawing" width="20"/></a> <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_OpenEBench.pdf" download><img src="images/PDF_icon.png" alt="drawing" height="20"/></a>
+
 - Salvador Capella-Gutierrez, *Barcelona Super Computing Centre, Spain*
 - Laura Portell, *Barcelona Super Computing Centre, Spain*
 - Asier Gonzalez, *Barcelona Super Computing Centre, Spain*
