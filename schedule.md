@@ -52,7 +52,7 @@ This workshop will take place from **29th November - 1st December 2021**. The ti
  - Gisela Gabernet, *University of Tübingen, Germany*
  - Friederike Hanssen, *University of Tübingen, Germany*
 
-**15:00-15:15: Plenary talk - FAIR workflow services** <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day3_FAIR.ics" download><img src="images/calendar_icon.png" alt="drawing" width="20"/></a>
+**15:00-15:15: Plenary talk - FAIR workflow services** <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day3_FAIR2.ics" download><img src="images/calendar_icon.png" alt="drawing" width="20"/></a>
  - Professor Carole Goble, *The University of Manchester, UK*
 
 **Live stream:** this event will be live streamed on twitch: [https://www.twitch.tv/elixir_workshops/](https://www.twitch.tv/elixir_workshops/)
