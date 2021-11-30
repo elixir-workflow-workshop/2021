@@ -54,7 +54,7 @@ All participants will be expected to:
 
 **Course material:** [https://nextflow-io.github.io/elixir-workshop-21/docs/](https://nextflow-io.github.io/elixir-workshop-21/docs/)
 
-### nf-core (13:00-15:00)
+### nf-core (13:00-15:00)  <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_nfcore.pdf" download><img src="images/PDF_icon.png" alt="drawing" height="20"/></a>
 
 **Preparation advice:** participants should install Nextflow and Docker. Further instructions here: [https://nf-co.re/usage/installation](https://nf-co.re/usage/installation)
 
