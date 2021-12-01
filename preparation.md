@@ -48,7 +48,7 @@ All participants will be expected to:
 
 ## Wednesday sessions
 
-### Nextflow (09:30-12:00)
+### Nextflow (09:30-12:00) <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_Nextflow_PaoloDiTommaso.pdf" download><img src="images/PDF_icon.png" alt="drawing" height="20"/></a>
 
 **Preparation advice:** participants will undertake the tutorial in a cloud environment delivered via [Gitpod](https://www.gitpod.io/). All you need is a browser and internet connection. Make sure to have a [GitHub](https://github.com/) account and register for a free [Gitpod](https://www.gitpod.io/) account. 
 
