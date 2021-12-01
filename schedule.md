@@ -43,7 +43,7 @@ This workshop will take place from **29th November - 1st December 2021**. The ti
 
 ### Day 3, Wednesday 1st Dec <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day3.ics" download><img src="images/calendar_icon.png" alt="drawing" width="20"/></a>
 
-**09:30-12:00: Nextflow** <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day3_Nextflow.ics" download><img src="images/calendar_icon.png" alt="drawing" width="20"/></a>
+**09:30-12:00: Nextflow** <a href="https://elixir-workflow-workshop.github.io/2021/ics/ELIXIR_workflow_workshop_Day3_Nextflow.ics" download><img src="images/calendar_icon.png" alt="drawing" width="20"/></a> <a href="https://elixir-workflow-workshop.github.io/2021/slide_decks/ELIXIR_WorkWork2021_Nextflow_PaoloDiTommaso.pdf" download><img src="images/PDF_icon.png" alt="drawing" height="20"/></a>
 - Paolo Di Tommaso, *Seqera Labs, Spain*
 - Evan Floden, *Seqera Labs, Spain*
 - Luca Cozzuto, *Centre for Genomics Regulation, Spain*
